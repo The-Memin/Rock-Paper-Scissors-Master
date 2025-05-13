@@ -51,3 +51,4 @@ This is a personal portfolio project. Suggestions, improvements, and feedback ar
 ## 👨‍💻 Author
 
 - **Guillermo Juarez** - [The-Memin](https://github.com/The-Memin)
+- **Porfolio** - [Guillermo JM](https://guillermojm.dev)
